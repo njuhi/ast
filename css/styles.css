@@ -61,3 +61,8 @@
 .lam img:hover{
   transform: scale(1.1);
 }
+.ram ul li{
+  display: inline-block;
+  width: 5%;
+  
+}
