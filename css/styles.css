@@ -92,5 +92,6 @@ form.submit:hover{
 
 }
 .ban{
-  display: inline-block;
+  text-align: inline-block;
+  text-overflow: clip;
 }
