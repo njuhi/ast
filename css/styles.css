@@ -42,7 +42,16 @@ text-align: center;
   display: inline-block;
   width: 5%;
   text-align: center;
-
+  color: black;
+}
+.ram ul li a{
+  color: orange;
+}
+.ram ul{
+  background-color: blue;
+}
+.ram{
+  background-color: blue;
 }
 .form-control{
   width: 600px;
@@ -81,4 +90,7 @@ form.submit:hover{
 #hey{
   float:right;
 
+}
+.ban{
+  display: inline-block;
 }
