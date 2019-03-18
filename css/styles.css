@@ -4,6 +4,9 @@
   background-repeat: no-repeat;
   height: 100vh;
 }
+.dud img{
+  bottom: 60%
+}
 .center{
   text-align: center;
   top: 50%;
